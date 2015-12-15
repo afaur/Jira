@@ -1,0 +1,5 @@
+#!/bin/bash
+export jira_username=username
+export jira_password=password
+
+node index.js
